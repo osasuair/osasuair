@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @osasuair
-- 👀 I’m interested in Java, Python, and JS
+- 👋 Hi, I’m Paul/@osasuair
+- 👀 I’m interested in Java, Python, and HTML/CSS
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me: (437) 922-1810 or paulairuehia@gmail.com
