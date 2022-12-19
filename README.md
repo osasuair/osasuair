@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Paul/@osasuair
-- 👀 I’m interested in Java, Python, and HTML/CSS/JS
-- 🌱 I’m currently studying Computer Science at Carleton University
-- 📫 How to reach me: (437) 922-1810 or osasuair@gmail.com
+## Paul Airuehia
+> @osasuair on GitHub
+
+👀 I primarly develop in Java, C, Python, and HTML/CSS/JS (node.js with NPM for server-side development)
+
+🌱 I’m currently studying Computer Science at Carleton University
+
+📫 Send me an Email: osasuair@gmail.com
 
 <!---
 osasuair/osasuair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
