@@ -3,7 +3,7 @@
 
 👀 Check out my website https://paulairuehia.com
 
-🌱 I’m currently studying Computer Science at Carleton University
+🌱 I’m currently in the Bachelor of Computer Science Honours program at Carleton University in the Artificial Intelligence and Machine Learning Stream
 
 📫 Send me an Email: osasuair@gmail.com
 
