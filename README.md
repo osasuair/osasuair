@@ -1,7 +1,7 @@
 ## Paul Airuehia
 > @osasuair on GitHub
 
-👀 I primarly develop in Java, Javascript, C, C++, Python, and HTML/CSS (node.js with NPM for server-side development)
+👀 Check out my website https://paulairuehia.com
 
 🌱 I’m currently studying Computer Science at Carleton University
 
